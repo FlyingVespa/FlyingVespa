@@ -1,7 +1,6 @@
 
 <h2 align="center">Hi 👋 I'm Hedri Nel</h1>
-<h3 align="center">A passionate fullstack developer from South Africa, living in Italy.</h3>
-<h4>High-End Sales Consultant turned Fullstack Developer. Creating synergy between client expectations and product delivery</h4>
+<h3 align="center">A passionate fullstack developer student from South Africa, living in Italy.</h3>
 
 ### Technologies
 
