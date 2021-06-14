@@ -1,20 +1,40 @@
 
-<h2 align="left">Hi  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>   I'm Hedri Nel</h2>
+<h2 align="center">Hi  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>   I'm Hedri</h2>
 
-<i><h3 align="left">A passionate fullstack developer student from South Africa, living in Italy </h3></i>
+<i><h4 align="center">A passionate fullstack developer student from South Africa, living in Italy </h4></i>
 
-<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> Technologies</h2>
-
-
-#### 🚀 I use daily  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-
-#### 🌱 Learning all about: ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat&logo=Node.js) ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat&logo=react) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+<h3 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> Technologies</h3>
 
 
-#### 📚 Want to Learn: ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=flat&logo=Express.JS) ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazon-aws)
+<ins><h3 align="center">🚀 I use daily:</h3></ins>
+<p align = 'center'>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src = 'https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=react&logoColor=white' />
+<img src = 'https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white' />
+<img src = 'https://img.shields.io/badge/CSS%20-%23F37626.svg?&style=for-the-badge&logo=CSS&logoColor=white'/>
+<img src = 'https://img.shields.io/badge/html%20-%23150458.svg?&style=for-the-badge&logo=html&logoColor=white'/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FlyingVespa&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+<h3 align="center">🌱 Learning all about:</h3> 
+<p align = 'center'>
+<img src = 'https://img.shields.io/badge/MongoDB-14354C?style=for-the-badge&logo=mongodb&logoColor=white'/> 
+<img src = 'https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white'/> 
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+</p>
 
+<h3 align="center">📚 Want to Learn:</h3>
+<p align = 'center'>
+<img src = 'https://img.shields.io/badge/typescript%20-%23013243.svg?&style=for-the-badge&logo=typescript&logoColor=white'/>  
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
+</p>
+<hr/>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=FlyingVespa&theme=bear&hide_border=true"/>
+</p>
 
 <!--
 **FlyingVespa/FlyingVespa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
